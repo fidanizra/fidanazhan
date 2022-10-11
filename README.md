@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fidan Azhan</h1>
 <h3 align="center">A programmer from Malaysia.</h3>
+<img align="right" width="300" style="margin-bottom: 10px;" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif"> </img>
 
 - 🔭 I’m currently working on **Python Headless CMS / Ludo App**
 

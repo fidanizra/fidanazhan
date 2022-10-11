@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Python Headless CMS / Ludo App**
 
-- 🌱 I’m currently learning/revise on **Spring and React**
+- 🌱 I’m currently learning/revising on **Spring and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fidanazhan](https://github.com/fidanazhan)
 
